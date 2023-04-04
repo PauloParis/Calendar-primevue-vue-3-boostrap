@@ -1,0 +1,21 @@
+
+.color {
+  background-color: #68ce92;
+}
+
+.img {
+  background-image: url('bg.jpg');
+  background-size: cover;
+  height: 85%;
+  border-radius: 10px;
+}
+
+.icon {
+  font-size: 2rem; 
+}
+
+@media((min-width:992px) and (max-width:1199px)){
+  .altura {
+    height: 100%;
+  }
+}
